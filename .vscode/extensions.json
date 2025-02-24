@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "pucelle.vscode-css-navigation",
+    "antfu.iconify",
+    "antfu.unocss",
+    "vue.volar"
+  ]
+}

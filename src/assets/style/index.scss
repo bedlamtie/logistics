@@ -1,0 +1,17 @@
+@use './variable.scss' as *;
+@use './reset.scss' as *;
+
+:root {
+  --primary-color: #{$primary-color};
+  --primary-bg-color: #{$primary-bg-color};
+  --primary-gray-color: #{$primary-gray-color};
+}
+
+.primary {
+  &-color {
+    color: var(--primary-color);
+  }
+  &-bg {
+    background-color: var(--primary-bg-color);
+  }
+}
