@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { useElementSize } from '@vueuse/core'
 
-const bannerList = ['/banner1.jpg', '/banner2.jpg']
+const bannerList = ['./banner1.jpg', './banner2.jpg']
 
 const carousel = ref()
 const { width } = useElementSize(carousel)

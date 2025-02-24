@@ -2,7 +2,7 @@
 
 > 帮朋友做的一个物流官网Demo
 
-** 效果预览：[https://bedlamtie.github.io/logistics](https://bedlamtie.github.io/logistics) **
+**效果预览：(https://bedlamtie.github.io/logistics)**
 
 ## Vue 3 + TypeScript + Vite
 
