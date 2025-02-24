@@ -70,7 +70,7 @@ watchEffect(() => {
       // }).finally(() => {
       //   loading.value = false
       // })
-      fetch(`/line-data.json?${QueryString.stringify(data)}`, { method: 'GET' }).then((res) => {
+      fetch(`./line-data.json?${QueryString.stringify(data)}`, { method: 'GET' }).then((res) => {
         res.json().then((inuseList) => {
           lineList.value = inuseList
           loading.value = false
