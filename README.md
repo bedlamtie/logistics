@@ -1,6 +1,6 @@
 # Logistics
 
-> 帮朋友做的一个物流官网Demo
+> 一个简单的物流官网Demo
 
 **效果预览：(https://bedlamtie.github.io/logistics)**
 
