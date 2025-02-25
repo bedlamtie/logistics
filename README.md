@@ -4,6 +4,9 @@
 
 **效果预览：(https://bedlamtie.github.io/logistics)**
 
+
+<img width="1198" alt="Snipaste_2025-02-25_15-37-04" src="https://github.com/user-attachments/assets/f4b18042-81d4-43ac-805d-06332e2e1d9a" />
+
 ## Vue 3 + TypeScript + Vite
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
